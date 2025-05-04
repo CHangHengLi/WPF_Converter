@@ -1,6 +1,8 @@
 # WPF 值转换器示例程序
 
 这是一个基于.NET Core 8.0的WPF应用程序，使用MVVM设计模式展示了值转换器的各种应用场景。
+![image](https://github.com/user-attachments/assets/28d701c0-787f-4952-b9d1-1401cbb91517)
+
 
 ## 技术栈
 
